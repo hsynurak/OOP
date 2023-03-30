@@ -1,0 +1,11 @@
+C:\Users\Hüseyin\Desktop\OOP\week3_lab\week3_lab_account\week3_lab_account\bin\Debug\week3_lab_account.exe.config
+C:\Users\Hüseyin\Desktop\OOP\week3_lab\week3_lab_account\week3_lab_account\bin\Debug\week3_lab_account.exe
+C:\Users\Hüseyin\Desktop\OOP\week3_lab\week3_lab_account\week3_lab_account\bin\Debug\week3_lab_account.pdb
+C:\Users\Hüseyin\Desktop\OOP\week3_lab\week3_lab_account\week3_lab_account\obj\Debug\week3_lab_account.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\Desktop\OOP\week3_lab\week3_lab_account\week3_lab_account\obj\Debug\week3_lab_account.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hüseyin\Desktop\OOP\week3_lab\week3_lab_account\week3_lab_account\obj\Debug\week3_lab_account.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\OOP\week3_lab\week3_lab_account\week3_lab_account\obj\Debug\week3_lab_account.csproj.GenerateResource.cache
+C:\Users\Hüseyin\Desktop\OOP\week3_lab\week3_lab_account\week3_lab_account\obj\Debug\week3_lab_account.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\Desktop\OOP\week3_lab\week3_lab_account\week3_lab_account\obj\Debug\week3_lab_account.exe
+C:\Users\Hüseyin\Desktop\OOP\week3_lab\week3_lab_account\week3_lab_account\obj\Debug\week3_lab_account.pdb
+C:\Users\Hüseyin\Desktop\OOP\week3_lab\week3_lab_account\week3_lab_account\obj\Debug\week3_lab_account.Form1.resources
