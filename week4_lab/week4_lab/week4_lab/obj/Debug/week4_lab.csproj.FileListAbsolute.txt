@@ -1,0 +1,11 @@
+C:\Users\Hüseyin\Desktop\OOP\week4_lab\week4_lab\week4_lab\bin\Debug\week4_lab.exe.config
+C:\Users\Hüseyin\Desktop\OOP\week4_lab\week4_lab\week4_lab\bin\Debug\week4_lab.exe
+C:\Users\Hüseyin\Desktop\OOP\week4_lab\week4_lab\week4_lab\bin\Debug\week4_lab.pdb
+C:\Users\Hüseyin\Desktop\OOP\week4_lab\week4_lab\week4_lab\obj\Debug\week4_lab.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\Desktop\OOP\week4_lab\week4_lab\week4_lab\obj\Debug\week4_lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hüseyin\Desktop\OOP\week4_lab\week4_lab\week4_lab\obj\Debug\week4_lab.Form1.resources
+C:\Users\Hüseyin\Desktop\OOP\week4_lab\week4_lab\week4_lab\obj\Debug\week4_lab.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\OOP\week4_lab\week4_lab\week4_lab\obj\Debug\week4_lab.csproj.GenerateResource.cache
+C:\Users\Hüseyin\Desktop\OOP\week4_lab\week4_lab\week4_lab\obj\Debug\week4_lab.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\Desktop\OOP\week4_lab\week4_lab\week4_lab\obj\Debug\week4_lab.exe
+C:\Users\Hüseyin\Desktop\OOP\week4_lab\week4_lab\week4_lab\obj\Debug\week4_lab.pdb
