@@ -1,0 +1,11 @@
+C:\Users\Hüseyin\Desktop\OOP\konu\calc_area_circum\calc_area_circum\bin\Debug\calc_area_circum.exe.config
+C:\Users\Hüseyin\Desktop\OOP\konu\calc_area_circum\calc_area_circum\bin\Debug\calc_area_circum.exe
+C:\Users\Hüseyin\Desktop\OOP\konu\calc_area_circum\calc_area_circum\bin\Debug\calc_area_circum.pdb
+C:\Users\Hüseyin\Desktop\OOP\konu\calc_area_circum\calc_area_circum\obj\Debug\calc_area_circum.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\Desktop\OOP\konu\calc_area_circum\calc_area_circum\obj\Debug\calc_area_circum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hüseyin\Desktop\OOP\konu\calc_area_circum\calc_area_circum\obj\Debug\calc_area_circum.Form1.resources
+C:\Users\Hüseyin\Desktop\OOP\konu\calc_area_circum\calc_area_circum\obj\Debug\calc_area_circum.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\OOP\konu\calc_area_circum\calc_area_circum\obj\Debug\calc_area_circum.csproj.GenerateResource.cache
+C:\Users\Hüseyin\Desktop\OOP\konu\calc_area_circum\calc_area_circum\obj\Debug\calc_area_circum.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\Desktop\OOP\konu\calc_area_circum\calc_area_circum\obj\Debug\calc_area_circum.exe
+C:\Users\Hüseyin\Desktop\OOP\konu\calc_area_circum\calc_area_circum\obj\Debug\calc_area_circum.pdb
