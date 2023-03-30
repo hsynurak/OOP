@@ -1,0 +1,11 @@
+C:\Users\Hüseyin\Desktop\OOP\konu\Poly\Poly\bin\Debug\Poly.exe.config
+C:\Users\Hüseyin\Desktop\OOP\konu\Poly\Poly\bin\Debug\Poly.exe
+C:\Users\Hüseyin\Desktop\OOP\konu\Poly\Poly\bin\Debug\Poly.pdb
+C:\Users\Hüseyin\Desktop\OOP\konu\Poly\Poly\obj\Debug\Poly.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\Desktop\OOP\konu\Poly\Poly\obj\Debug\Poly.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hüseyin\Desktop\OOP\konu\Poly\Poly\obj\Debug\Poly.Form1.resources
+C:\Users\Hüseyin\Desktop\OOP\konu\Poly\Poly\obj\Debug\Poly.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\OOP\konu\Poly\Poly\obj\Debug\Poly.csproj.GenerateResource.cache
+C:\Users\Hüseyin\Desktop\OOP\konu\Poly\Poly\obj\Debug\Poly.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\Desktop\OOP\konu\Poly\Poly\obj\Debug\Poly.exe
+C:\Users\Hüseyin\Desktop\OOP\konu\Poly\Poly\obj\Debug\Poly.pdb
