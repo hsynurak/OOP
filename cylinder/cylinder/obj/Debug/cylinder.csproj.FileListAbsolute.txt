@@ -1,0 +1,11 @@
+C:\Users\Hüseyin\Desktop\OOP\konu\cylinder\cylinder\bin\Debug\cylinder.exe.config
+C:\Users\Hüseyin\Desktop\OOP\konu\cylinder\cylinder\bin\Debug\cylinder.exe
+C:\Users\Hüseyin\Desktop\OOP\konu\cylinder\cylinder\bin\Debug\cylinder.pdb
+C:\Users\Hüseyin\Desktop\OOP\konu\cylinder\cylinder\obj\Debug\cylinder.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\Desktop\OOP\konu\cylinder\cylinder\obj\Debug\cylinder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hüseyin\Desktop\OOP\konu\cylinder\cylinder\obj\Debug\cylinder.Form1.resources
+C:\Users\Hüseyin\Desktop\OOP\konu\cylinder\cylinder\obj\Debug\cylinder.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\OOP\konu\cylinder\cylinder\obj\Debug\cylinder.csproj.GenerateResource.cache
+C:\Users\Hüseyin\Desktop\OOP\konu\cylinder\cylinder\obj\Debug\cylinder.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\Desktop\OOP\konu\cylinder\cylinder\obj\Debug\cylinder.exe
+C:\Users\Hüseyin\Desktop\OOP\konu\cylinder\cylinder\obj\Debug\cylinder.pdb
