@@ -1,0 +1,11 @@
+C:\Users\Urak\Desktop\huseyin_oop\ödev-2\ödev-2\bin\Debug\ödev-2.exe.config
+C:\Users\Urak\Desktop\huseyin_oop\ödev-2\ödev-2\bin\Debug\ödev-2.exe
+C:\Users\Urak\Desktop\huseyin_oop\ödev-2\ödev-2\bin\Debug\ödev-2.pdb
+C:\Users\Urak\Desktop\huseyin_oop\ödev-2\ödev-2\obj\Debug\ödev-2.csproj.AssemblyReference.cache
+C:\Users\Urak\Desktop\huseyin_oop\ödev-2\ödev-2\obj\Debug\ödev-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Urak\Desktop\huseyin_oop\ödev-2\ödev-2\obj\Debug\ödev_2.Form1.resources
+C:\Users\Urak\Desktop\huseyin_oop\ödev-2\ödev-2\obj\Debug\ödev_2.Properties.Resources.resources
+C:\Users\Urak\Desktop\huseyin_oop\ödev-2\ödev-2\obj\Debug\ödev-2.csproj.GenerateResource.cache
+C:\Users\Urak\Desktop\huseyin_oop\ödev-2\ödev-2\obj\Debug\ödev-2.csproj.CoreCompileInputs.cache
+C:\Users\Urak\Desktop\huseyin_oop\ödev-2\ödev-2\obj\Debug\ödev-2.exe
+C:\Users\Urak\Desktop\huseyin_oop\ödev-2\ödev-2\obj\Debug\ödev-2.pdb
